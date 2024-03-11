@@ -1,4 +1,4 @@
-<H3>Name : Vishranthi A</H3>
+<H3>Name : Sithi Hajara I</H3>
 <H3>Reg No. : 212221230102</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:11.03.2024</H3>
